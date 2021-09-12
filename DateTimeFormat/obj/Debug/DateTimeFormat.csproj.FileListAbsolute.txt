@@ -1,0 +1,6 @@
+D:\01. Project C Sharp\Lab001\Lab01\DateTimeFormat\bin\Debug\DateTimeFormat.exe
+D:\01. Project C Sharp\Lab001\Lab01\DateTimeFormat\bin\Debug\DateTimeFormat.pdb
+D:\01. Project C Sharp\Lab001\Lab01\DateTimeFormat\obj\Debug\DateTimeFormat.csprojAssemblyReference.cache
+D:\01. Project C Sharp\Lab001\Lab01\DateTimeFormat\obj\Debug\DateTimeFormat.csproj.CoreCompileInputs.cache
+D:\01. Project C Sharp\Lab001\Lab01\DateTimeFormat\obj\Debug\DateTimeFormat.exe
+D:\01. Project C Sharp\Lab001\Lab01\DateTimeFormat\obj\Debug\DateTimeFormat.pdb

@@ -1,0 +1,6 @@
+D:\01. Project C Sharp\Lab001\Lab01\NumberFormat\bin\Debug\NumberFormat.exe
+D:\01. Project C Sharp\Lab001\Lab01\NumberFormat\bin\Debug\NumberFormat.pdb
+D:\01. Project C Sharp\Lab001\Lab01\NumberFormat\obj\Debug\NumberFormat.csprojAssemblyReference.cache
+D:\01. Project C Sharp\Lab001\Lab01\NumberFormat\obj\Debug\NumberFormat.csproj.CoreCompileInputs.cache
+D:\01. Project C Sharp\Lab001\Lab01\NumberFormat\obj\Debug\NumberFormat.exe
+D:\01. Project C Sharp\Lab001\Lab01\NumberFormat\obj\Debug\NumberFormat.pdb

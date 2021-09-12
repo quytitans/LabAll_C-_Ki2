@@ -1,0 +1,6 @@
+D:\01. Project C Sharp\Lab001\Lab01\ImplicitilyTypedLocal\bin\Debug\ImplicitilyTypedLocal.exe
+D:\01. Project C Sharp\Lab001\Lab01\ImplicitilyTypedLocal\bin\Debug\ImplicitilyTypedLocal.pdb
+D:\01. Project C Sharp\Lab001\Lab01\ImplicitilyTypedLocal\obj\Debug\ImplicitilyTypedLocal.csprojAssemblyReference.cache
+D:\01. Project C Sharp\Lab001\Lab01\ImplicitilyTypedLocal\obj\Debug\ImplicitilyTypedLocal.csproj.CoreCompileInputs.cache
+D:\01. Project C Sharp\Lab001\Lab01\ImplicitilyTypedLocal\obj\Debug\ImplicitilyTypedLocal.exe
+D:\01. Project C Sharp\Lab001\Lab01\ImplicitilyTypedLocal\obj\Debug\ImplicitilyTypedLocal.pdb

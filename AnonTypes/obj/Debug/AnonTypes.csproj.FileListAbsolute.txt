@@ -1,0 +1,6 @@
+D:\01. Project C Sharp\Lab001\Lab01\AnonTypes\bin\Debug\AnonTypes.exe
+D:\01. Project C Sharp\Lab001\Lab01\AnonTypes\bin\Debug\AnonTypes.pdb
+D:\01. Project C Sharp\Lab001\Lab01\AnonTypes\obj\Debug\AnonTypes.csprojAssemblyReference.cache
+D:\01. Project C Sharp\Lab001\Lab01\AnonTypes\obj\Debug\AnonTypes.csproj.CoreCompileInputs.cache
+D:\01. Project C Sharp\Lab001\Lab01\AnonTypes\obj\Debug\AnonTypes.exe
+D:\01. Project C Sharp\Lab001\Lab01\AnonTypes\obj\Debug\AnonTypes.pdb

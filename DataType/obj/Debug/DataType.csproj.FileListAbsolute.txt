@@ -1,0 +1,6 @@
+D:\01. Project C Sharp\Lab001\Lab01\DataType\bin\Debug\DataType.exe
+D:\01. Project C Sharp\Lab001\Lab01\DataType\bin\Debug\DataType.pdb
+D:\01. Project C Sharp\Lab001\Lab01\DataType\obj\Debug\DataType.csprojAssemblyReference.cache
+D:\01. Project C Sharp\Lab001\Lab01\DataType\obj\Debug\DataType.csproj.CoreCompileInputs.cache
+D:\01. Project C Sharp\Lab001\Lab01\DataType\obj\Debug\DataType.exe
+D:\01. Project C Sharp\Lab001\Lab01\DataType\obj\Debug\DataType.pdb

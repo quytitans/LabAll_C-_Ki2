@@ -1,0 +1,6 @@
+D:\01. Project C Sharp\Lab001\Lab01\Exercise001\bin\Debug\Exercise001.exe
+D:\01. Project C Sharp\Lab001\Lab01\Exercise001\bin\Debug\Exercise001.pdb
+D:\01. Project C Sharp\Lab001\Lab01\Exercise001\obj\Debug\Exercise001.csprojAssemblyReference.cache
+D:\01. Project C Sharp\Lab001\Lab01\Exercise001\obj\Debug\Exercise001.csproj.CoreCompileInputs.cache
+D:\01. Project C Sharp\Lab001\Lab01\Exercise001\obj\Debug\Exercise001.exe
+D:\01. Project C Sharp\Lab001\Lab01\Exercise001\obj\Debug\Exercise001.pdb

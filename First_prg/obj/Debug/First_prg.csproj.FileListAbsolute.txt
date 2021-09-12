@@ -1,0 +1,6 @@
+D:\01. Project C Sharp\Lab001\Lab01\First_prg\bin\Debug\First_prg.exe
+D:\01. Project C Sharp\Lab001\Lab01\First_prg\bin\Debug\First_prg.pdb
+D:\01. Project C Sharp\Lab001\Lab01\First_prg\obj\Debug\First_prg.csprojAssemblyReference.cache
+D:\01. Project C Sharp\Lab001\Lab01\First_prg\obj\Debug\First_prg.csproj.CoreCompileInputs.cache
+D:\01. Project C Sharp\Lab001\Lab01\First_prg\obj\Debug\First_prg.exe
+D:\01. Project C Sharp\Lab001\Lab01\First_prg\obj\Debug\First_prg.pdb

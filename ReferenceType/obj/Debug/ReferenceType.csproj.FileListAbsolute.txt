@@ -1,0 +1,6 @@
+D:\01. Project C Sharp\Lab001\Lab01\ReferenceType\bin\Debug\ReferenceType.exe
+D:\01. Project C Sharp\Lab001\Lab01\ReferenceType\bin\Debug\ReferenceType.pdb
+D:\01. Project C Sharp\Lab001\Lab01\ReferenceType\obj\Debug\ReferenceType.csprojAssemblyReference.cache
+D:\01. Project C Sharp\Lab001\Lab01\ReferenceType\obj\Debug\ReferenceType.csproj.CoreCompileInputs.cache
+D:\01. Project C Sharp\Lab001\Lab01\ReferenceType\obj\Debug\ReferenceType.exe
+D:\01. Project C Sharp\Lab001\Lab01\ReferenceType\obj\Debug\ReferenceType.pdb
